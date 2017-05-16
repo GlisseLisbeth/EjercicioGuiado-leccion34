@@ -1,0 +1,32 @@
+body{
+  font-family: 'Josefin Sans', sans-serif;
+}
+a{
+  color: gray;
+}
+th,td{
+  border: 1px solid #ccc;
+  padding: 1%;
+}
+/*Utilities Customize*/
+.bg-gray-low{
+  background-color: #eee;
+}
+.bg-white{
+  background-color: white;
+}
+.bold-600{
+  font-weight: 600;
+}
+.padding-2-per{
+  padding: 2%;
+}
+.mt-62{
+  margin-top: 62px;
+}
+.mb-62{
+  margin-bottom: 62px;
+}
+.font-size{
+  font-size: 1.125em;
+}
